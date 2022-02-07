@@ -25,10 +25,10 @@ class EnergieGemeinschaft:
 		self.HausA = HausA
 		self.HausB = HausB
 
-	def berechnenDesGesamtenEnergieverbrauches(self):
+	# def berechnenDesGesamtenEnergieverbrauches(self):
 		# Hier soll eine Spalte die GesamtEnbergieanzahl beinhalten und pro kategorie,
 
 
-	def normierenDerDaten(self):
+	#def normierenDerDaten(self):
 		# TODO:
 
